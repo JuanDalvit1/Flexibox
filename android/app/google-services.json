@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "152917128691",
+    "project_id": "fluttterflexi",
+    "storage_bucket": "fluttterflexi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152917128691:android:8ce355c7080221ac148e86",
+        "android_client_info": {
+          "package_name": "com.mycompany.dashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152917128691-97fn82qgabsq4upa53p707avc2fu342o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxnCeNPVrk-nkBa5aJWFRMx3dhHV3fbfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152917128691-97fn82qgabsq4upa53p707avc2fu342o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "152917128691-blugsa5u40fbio0m3g9ubfe1mrmlavi8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.flexibox"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152917128691:android:d336e11c8c0b7c3e148e86",
+        "android_client_info": {
+          "package_name": "com.mycompany.flexibox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152917128691-82b41afd6avc0oe0r7q4kstvijm100km.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.flexibox",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "152917128691-97fn82qgabsq4upa53p707avc2fu342o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxnCeNPVrk-nkBa5aJWFRMx3dhHV3fbfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152917128691-97fn82qgabsq4upa53p707avc2fu342o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "152917128691-blugsa5u40fbio0m3g9ubfe1mrmlavi8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.flexibox"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
